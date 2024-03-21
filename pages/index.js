@@ -16,8 +16,8 @@ export default function Home() {
 				<TawkMessengerReact propertyId="622047bb1ffac05b1d7cb217" widgetId="1ft71gdb9" />
 			</div>
 			<Head>
-				<title>Munchyroll</title>
-				<meta name="title" content="Munchyroll" />
+				<title>Gradient Anime</title>
+				<meta name="title" content="Gradient Anime" />
 				<meta
 					name="description"
 					content="An ad-free anime streaming website aimed at minimality and responsive design. Share this with friends!"
@@ -27,7 +27,7 @@ export default function Home() {
 				<meta property="og:url" content="https://anime.j21.dev" />
 				<meta
 					property="og:title"
-					content="Munchyroll"
+					content="Gradient Anime"
 				/>
 				<meta
 					property="og:description"
@@ -39,7 +39,7 @@ export default function Home() {
 				<meta property="twitter:url" content="https://anime.j21.dev" />
 				<meta
 					property="twitter:title"
-					content="Munchyroll"
+					content="Gradient Anime"
 				/>
 				<meta
 					property="twitter:description"
