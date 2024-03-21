@@ -12,7 +12,7 @@ function Footer() {
           <Logo />
           <p>A minimal anime streaming site</p>
           <p>
-            Made by <a className="hover:text-blue-400 underline transition-all" rel="noreferrer" target="_blank" href="https://j21.dev">Jeydin21</a>!
+            Made by <a className="hover:text-blue-400 underline transition-all" rel="noreferrer" target="_blank" href="#">Rishi</a>!
           </p>
         </div>
         <div className="flex flex-col space-y-4 items-center bg-gray-900 bg-opacity-80 rounded-full p-4">
