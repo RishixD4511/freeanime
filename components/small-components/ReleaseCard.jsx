@@ -9,12 +9,6 @@ function ReleaseCard({ data }) {
           src={data.animeImg}
           alt=""
         />
-
-        <div className="">
-          <h4 className="mt-3 font-bold  line-clamp-2">{data.animeTitle}</h4>
-
-          <p>Episode {data.episodeNum}</p>
-        </div>
       </div>
     </Link>
   );
